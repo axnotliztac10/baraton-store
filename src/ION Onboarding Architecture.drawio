@@ -1,4 +1,4 @@
-<mxfile modified="2021-01-14T19:41:15.199Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="0AInAl4B1-eO8VgDSqB3" version="14.2.3" type="github">
+<mxfile modified="2021-01-14T19:46:38.741Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="pPjfiSj5PoFa7fdmGg3O" version="14.2.3" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="2089" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -49,8 +49,8 @@
         <mxCell id="C-yEnUiBXdjGMgicQ9S--27" value="&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#b3b3b3&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;Third party services/API&#39;s&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeWidth=4;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="110" y="120" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="C-yEnUiBXdjGMgicQ9S--28" value="&lt;font color=&quot;#b3b3b3&quot;&gt;&lt;b&gt;Server-side rendering Web App&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeWidth=4;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="290" y="170" width="160" height="20" as="geometry" />
+        <mxCell id="C-yEnUiBXdjGMgicQ9S--28" value="&lt;font color=&quot;#b3b3b3&quot;&gt;&lt;b&gt;Server-side rendering&amp;nbsp; Progressive Web Application&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeWidth=4;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="290" y="170" width="260" height="20" as="geometry" />
         </mxCell>
         <mxCell id="C-yEnUiBXdjGMgicQ9S--29" value="ai360&lt;br&gt;Mati&lt;br&gt;Oauth Provider&lt;br&gt;Cloud Services..." style="strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=bottom;spacingLeft=0;fontColor=#999999;fontSize=12;whiteSpace=wrap;spacingBottom=2;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-70" y="150" width="120" height="70" as="geometry" />
