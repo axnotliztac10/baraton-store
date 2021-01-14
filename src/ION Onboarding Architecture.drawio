@@ -1,6 +1,6 @@
-<mxfile modified="2021-01-14T19:46:38.741Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="pPjfiSj5PoFa7fdmGg3O" version="14.2.3" type="github">
+<mxfile modified="2021-01-14T20:08:09.376Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="dwxETlOaXYycwM4eDuck" version="14.2.3" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
-    <mxGraphModel dx="2089" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2089" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,9 +11,9 @@
           <mxGeometry x="85" y="40" width="765" height="40" as="geometry" />
         </mxCell>
         <mxCell id="12" value="" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=14;fontColor=#808080;align=left;html=1;" parent="1" vertex="1">
-          <mxGeometry x="300" y="200" width="180" height="110" as="geometry" />
+          <mxGeometry x="300" y="200" width="180" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="13" value="&lt;font color=&quot;#000000&quot;&gt;Gatsby/React&lt;/font&gt;&lt;br&gt;State manager - redux?&lt;br&gt;Unit testing - Jest&lt;br&gt;E2E testing - Cypress?&lt;br&gt;" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_endpoints;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" parent="12" vertex="1">
+        <mxCell id="13" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;Stack:&lt;/b&gt;&lt;br&gt;&lt;br&gt;Gatsby/ReactJS&lt;br&gt;&lt;/font&gt;Typescript&lt;br&gt;State manager - redux?&lt;br&gt;Unit testing - Jest&lt;br&gt;E2E testing - Cypress?&lt;br&gt;CI/CD - GH actions?" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_endpoints;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" parent="12" vertex="1">
           <mxGeometry y="0.5" width="20" height="19.5" relative="1" as="geometry">
             <mxPoint x="5" as="offset" />
           </mxGeometry>
@@ -59,6 +59,14 @@
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="120" y="180" as="sourcePoint" />
             <mxPoint x="50" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C-yEnUiBXdjGMgicQ9S--33" value="" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=14;fontColor=#808080;align=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="199" width="190" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="C-yEnUiBXdjGMgicQ9S--34" value="&lt;b style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Responsabilities/Features:&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#b3b3b3&quot;&gt;Routes handling&lt;br&gt;&lt;/font&gt;SEO&lt;br&gt;Analytics&lt;br&gt;Push notifications?&lt;br&gt;Offline behaviour?&lt;br&gt;" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_endpoints;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="C-yEnUiBXdjGMgicQ9S--33">
+          <mxGeometry y="0.5" width="20" height="19.5" relative="1" as="geometry">
+            <mxPoint x="5" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
