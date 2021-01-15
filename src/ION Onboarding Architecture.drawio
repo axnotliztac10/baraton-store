@@ -1,6 +1,6 @@
-<mxfile modified="2021-01-14T22:44:14.902Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="mc9qVIfHDPxOdm-GXyiz" version="14.2.3" type="github">
+<mxfile modified="2021-01-15T16:18:54.676Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="KzhebPhRGh64RL7XfBvW" version="14.2.3" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
-    <mxGraphModel dx="2472" dy="845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2371" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -79,9 +79,17 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="C-yEnUiBXdjGMgicQ9S--39" value="" style="shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;dashed=1;fontSize=10;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="290" y="450" width="325" height="200" as="geometry" />
+          <mxGeometry x="120" y="450" width="325" height="200" as="geometry" />
         </mxCell>
         <mxCell id="C-yEnUiBXdjGMgicQ9S--40" value="&lt;font color=&quot;#000000&quot;&gt;ION-UI NPM Package&lt;/font&gt;&lt;br&gt;Design system based on React + Typescript&lt;br&gt;Inpired by Sancho UI Library&lt;br&gt;Build on top of Emotion styling library&lt;br&gt;CSS in JS (JSS)&lt;br&gt;Theming&lt;br&gt;Basic and Complex UI controls&lt;br&gt;- Forms&lt;br&gt;- Accesibility&lt;br&gt;- Tree shaking" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=container_engine;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="C-yEnUiBXdjGMgicQ9S--39">
+          <mxGeometry y="0.5" width="44" height="39" relative="1" as="geometry">
+            <mxPoint x="5" y="-19.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C-yEnUiBXdjGMgicQ9S--42" value="" style="shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;dashed=1;fontSize=10;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="460" y="450" width="325" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="C-yEnUiBXdjGMgicQ9S--43" value="&lt;font color=&quot;#000000&quot;&gt;ION-AB-Testing NPM Package&lt;/font&gt;&lt;br&gt;" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=container_engine;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="C-yEnUiBXdjGMgicQ9S--42">
           <mxGeometry y="0.5" width="44" height="39" relative="1" as="geometry">
             <mxPoint x="5" y="-19.5" as="offset" />
           </mxGeometry>
