@@ -9,4 +9,5 @@
 - Monitorear procesos de despliegue continuo CD e integracion continua CI
 - Comunicar a tiempo y en forma posibles conflictos de cualquier nivel
 - Revisar conceptos teoricos importantes como: deploys en la nube, productions buils (webpack), typescript, css in js, SOLID, agile manifesto, 12 factor app
-- 
+- Ser un gatekeeper de la factibilidad y usabilidad del producto, proponer mejoras, correcciones, cuestionar sanamente cualquier idea y o propuesta
+- EL MAS IMPORTANTE, ser gatekeeper de la PROACTIVIDAD
